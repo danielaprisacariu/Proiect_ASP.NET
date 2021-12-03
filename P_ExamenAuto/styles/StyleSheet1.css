@@ -1,0 +1,34 @@
+﻿body {
+	background-color: #c8dfe6
+}
+
+#main {
+	text-align: center;
+}
+
+
+#titlu {
+	font-size: 150%;
+	font-family: Arial
+}
+
+#GridView1 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	height: 500px;
+}
+
+.home {
+	margin: 30px;
+}
+
+#centru {
+	text-align: center;
+	margin-top: 15%;
+}
+
+
+/*div {
+	margin: 30px;
+}*/
